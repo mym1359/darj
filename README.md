@@ -12,3 +12,5 @@ Insert, view and edit daily branch statistics and the possibility of entering ex
 • Management
 Including viewing reports specific to branch and headquarters management, adding and deleting users, adding and viewing
 Suggestions and criticisms
+📧 Contact
+For inquiries, email me at: mym1359@gmail.com
