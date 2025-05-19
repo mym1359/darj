@@ -1,0 +1,38 @@
+# 🏦 **Bank Maskan Debt Collection System**  
+*(A comprehensive PHP-based platform for tracking and managing non-performing loans)*  
+
+## **📜 Project Overview**  
+This system was developed for **Bank Maskan** to streamline the collection of delinquent loans through automated tracking, payment management, and advanced reporting capabilities.
+
+✅ **Key Features:**  
+- 🎯 **Smart Debt Tracking:** Categorizes borrowers by debt amount and delinquency period  
+- 🤖 **Auto-Notifications:** SMS/email reminders to defaulters  
+- 👨‍💼 **Role-Based Access:** Branch agents, recovery specialists, and administrators  
+- 📊 **Real-Time Reporting:** Excel/PDF exports with regional performance analytics  
+
+## **🛠️ Technology Stack**  
+| Component       | Technologies Used              |
+|-----------------|-------------------------------|
+| **Backend**     | PHP 8, Laravel (or Core PHP)   |
+| **Frontend**    | Bootstrap 5, JavaScript, AJAX |
+| **Database**    | MySQL (optimized for high transactions) |
+| **Security**    | Two-Factor Authentication (2FA), Data Encryption |
+
+## **⚙️ Core Modules**  
+### 1. **Debtor Management**  
+- Customer profiles (account #, debt amount, due dates)  
+- Risk scoring for collection prioritization  
+
+### 2. **Payment Processing**  
+- Installment payment recording  
+- Bank gateway integration for online payments  
+
+### 3. **Reporting Dashboard**  
+- Interactive charts (collections by branch/month)  
+- Custom report generation for HQ  
+
+### 4. **Notification System**  
+- Automated SMS via bank's messaging API  
+- Call logging (when integrated with call center)  
+
+## **📂 Project Structure**  
